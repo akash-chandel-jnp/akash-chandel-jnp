@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-chandel-jnp" alt="akash-chandel-jnp" /></a> </p>
 
-- 🔭 I am currenty working on **Banking management system**
+- 🔭 I am currenty working on *Real-Time Multiplayer Game:
+
+Develop a multiplayer game using a game development framework like Phaser.js or Three.js. Implement real-time communication between players using WebSockets.**
 
 - 🌱 I’m currently learning **Backend, React(Advance) , NodeJs, Advance Javascript**
 
